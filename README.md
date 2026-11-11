@@ -39,4 +39,4 @@ python escalar_bloques.py
 
 - Spotify pide mínimo 300×300 px y máximo 4 MB. Las imágenes de salida cumplen ambos requisitos.
 - Si una textura es animada (una tira vertical), el script toma el primer fotograma.
-- Este proyecto no incluye texturas. Las portadas de ejemplo usan el pack de [@MultiPixelHD](https://x.com/MultiPixelHD) y las texturas originales pertenecen a Mojang Studios.
+- Las portadas y texturas de ejemplo usan el pack de [@MultiPixelHD](https://x.com/MultiPixelHD) y las texturas originales pertenecen a Mojang Studios.
